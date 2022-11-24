@@ -10,6 +10,7 @@ export const Image = styled.img`
   flex-grow: 1;
   border-radius: inherit;
   margin: 5px 5px 0;
+  object-fit: cover;
 `;
 
 export const Card = styled.div`
